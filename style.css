@@ -1,4 +1,11 @@
 .navbar {
-     font-family: "Tajawal";
-     font-size: 1.3em;
+    font-family: "Tajawal";
+    font-size: 1.3em;
+}
+
+.pageOne {
+    background: url("https://i.pinimg.com/originals/44/06/fd/4406fd123fe08c1047a8becf5b1c8c08.jpg");
+    background-size: cover;
+    height: 1000px;
+    margin-top: -10px;
 }
